@@ -1,0 +1,10 @@
+node_modules
+lib
+aggregated-translations
+dev-site-config/build
+.vscode
+coverage
+# package-lock.json
+# client/package-lock.json
+# Gemfile.lock
+.DS_Store
